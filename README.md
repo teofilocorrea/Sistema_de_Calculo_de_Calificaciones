@@ -16,16 +16,16 @@ Este mini proyecto técnico está diseñado para explorar el uso de **columnas c
 
 ## 🧩 Contenido
 
-- [`Contexto del Sistema`](docs/contexto_sistema.md) 
-- [`Diagrama Conceptual`](docs/diagrama_conceptual.md) 
-- [`Estructura Física`](docs/estructura_fisica.md)
-- [`Columnas Computadas`](docs/columnas_computadas.md)
-- [`Restricciones CHECK`](docs/restricciones_check.md)
-- [`Estrategia de Seguridad`](docs/estrategia_seguridad.md)
-- [`Metadatos`](docs/metadatos.md)
-- [`Pruebas de Datos`](/pruebas_datos)
-- [`Scripts SQL`](/scripts_sql) 
-- [`Release`](#)
+- 📌 [`Contexto del Sistema`](docs/contexto_sistema.md) 
+- 🧠 [`Diagrama Conceptual`](docs/diagrama_conceptual.md) 
+- 🔗 [`Estructura Física`](docs/estructura_fisica.md)
+- 🧱 [`Columnas Computadas`](docs/columnas_computadas.md)
+- 💡 [`Restricciones CHECK`](docs/restricciones_check.md)
+- ✅ [`Estrategia de Seguridad`](docs/estrategia_seguridad.md)
+- 🔐 [`Metadatos`](docs/metadatos.md)
+- 🧾 [`Pruebas de Datos`](/pruebas_datos)
+- 🧪 [`Scripts SQL`](/scripts_sql) 
+- 🚀 [`Release`](#)
 
 ---
 
