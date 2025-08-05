@@ -1,4 +1,4 @@
-# 🧮 Sistema de Cálculo de Calificaciones – Columnas Computadas en SQL Server
+![Portada del Proyecto](docs/img/title_sistema_calculo.png)
 
 Este mini proyecto técnico está diseñado para explorar el uso de **columnas computadas** (`Computed Columns`) en SQL Server, aplicadas a un sistema académico de evaluación.
 
