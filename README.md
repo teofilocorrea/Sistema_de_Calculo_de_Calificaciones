@@ -16,8 +16,11 @@ Este mini proyecto técnico está diseñado para explorar el uso de **columnas c
 
 ## 🧩 Contenido
 
+## 🧩 Contenido
+
 - 📌 [`Contexto del Sistema`](docs/contexto_sistema.md) 
 - 🧠 [`Diagrama Conceptual`](docs/diagrama_conceptual.md) 
+- 📐 [`Diagrama Lógico`](docs/diagrama_logico.md)
 - 🔗 [`Estructura Física`](docs/estructura_fisica.md)
 - 🧱 [`Columnas Computadas`](docs/columnas_computadas.md)
 - 💡 [`Restricciones CHECK`](docs/restricciones_check.md)
