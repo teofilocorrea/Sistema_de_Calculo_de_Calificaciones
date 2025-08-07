@@ -20,7 +20,7 @@ Este mini proyecto técnico está diseñado para explorar el uso de **columnas c
 - 🧠 [`Diagrama Conceptual`](docs/diagrama_conceptual.md) 
 - 📐 [`Diagrama Lógico`](docs/diagrama_logico.md)
 - ⚙️ [`Estructura Física`](docs/estructura_fisica.md)
-- 🔗 [Relaciones entre Tablas](docs/relaciones_tablas.md)
+- 🔗 [`Relaciones entre Tablas`](docs/relaciones_tablas.md)
 - 🧱 [`Columnas Computadas`](docs/columnas_computadas.md)
 - 💡 [`Restricciones CHECK`](docs/restricciones_check.md)
 - ✅ [`Estrategia de Seguridad`](docs/estrategia_seguridad.md)
