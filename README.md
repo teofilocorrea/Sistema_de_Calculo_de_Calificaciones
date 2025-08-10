@@ -25,8 +25,8 @@ Este mini proyecto técnico está diseñado para explorar el uso de **columnas c
 - 💡 [`Restricciones CHECK`](docs/restricciones_check.md)
 - ✅ [`Estrategia de Seguridad`](docs/estrategia_seguridad.md)
 - 🔐 [`Metadatos`](docs/metadatos.md)
-- 🧾 [`Pruebas de Datos`](/pruebas_datos)
 - 🧪 [`Scripts SQL`](/scripts_sql) 
+- 🧾 [`Pruebas de Datos`](/pruebas_datos)
 - 🚀 [`Release`](#)
 
 ---
