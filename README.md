@@ -2,39 +2,39 @@
 
 Este mini proyecto técnico está diseñado para explorar el uso de **columnas computadas** (`Computed Columns`) en SQL Server, aplicadas a un sistema académico de evaluación.
 
-📌 El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a partir de sus calificaciones individuales (Examen 1, Examen 2, Participación y Asistencia), manteniendo un modelo de base de datos limpio, profesional y validado.
+---
+
+## 📌 Contexto del Sistema
+El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a partir de sus calificaciones individuales (Examen 1, Examen 2, Participación y Asistencia), manteniendo un modelo de base de datos limpio, profesional y validado.
 
 ---
 
-## 🎯 Propósito
+## 📚 Contenido de Documentación
 
-- Practicar la definición y uso de columnas computadas (`PERSISTED`, `NULLABLE`, `INDEXABLE`, etc.)
-- Aplicar reglas de negocio en cálculos automáticos.
-- Integrar buenas prácticas de documentación, seguridad y trazabilidad.
+- 📌 [Contexto del Sistema](docs/contexto_sistema.md)
+- 🗂 [Documento Conceptual](docs/documento_conceptual.md)
+- 📊 [Documento Lógico](docs/documento_logico.md)
+- 🏗 [Diseño Físico](docs/diseno_fisico.md)
+- 🔗 [Relaciones y Reglas de Integridad](docs/relaciones_tablas.md)
+- 🔒 [Seguridad y Metadatos](docs/seguridad_metadatos.md)
+- 💻 [Implementación y Pruebas](docs/implementacion_pruebas.md)
+- 🚀 [Release](docs/release.md)
 
----
 
-## 🧩 Contenido
+## 🗄 Scripts SQL
 
-- 📌 [`Contexto del Sistema`](docs/contexto_sistema.md) 
-- 🧠 [`Diagrama Conceptual`](docs/diagrama_conceptual.md) 
-- 📐 [`Diagrama Lógico`](docs/diagrama_logico.md)
-- ⚙️ [`Estructura Física`](docs/estructura_fisica.md)
-- 🔗 [`Relaciones entre Tablas`](docs/relaciones_tablas.md)
-- 🧱 [`Columnas Computadas`](docs/columnas_computadas.md)
-- 💡 [`Restricciones CHECK`](docs/restricciones_check.md)
-- ✅ [`Estrategia de Seguridad`](docs/estrategia_seguridad.md)
-- 🔐 [`Metadatos`](docs/metadatos.md)
-- 🧪 [`Scripts SQL`](/scripts_sql) 
-- 🧾 [`Pruebas de Datos`](/pruebas_datos)
-- 🚀 [`Release`](#)
+- 📄 [01 – Creación de estructura (DDL)](sql/01_ddl_creacion_estructura.sql)
+- 📄 [02 – Datos de prueba (DML Insert)](sql/02_dml_datos_prueba.sql)
+- 📄 [03 – Actualización y eliminación (DML Update/Delete)](sql/03_dml_actualizacion_eliminacion.sql)
+- 📄 [04 – Consultas básicas (DQL)](sql/04_dql_consultas_basicas.sql)
+- 📄 [05 – Consultas avanzadas (DQL)](sql/05_dql_consultas_avanzadas.sql)
 
 ---
 
 ## 👤 Autor
 
 **Teófilo Correa Rojas**  
-UX/UI Designer • Data Engineer in Progress  
+UX/UI Designer • Data Engineer
 [LinkedIn](https://www.linkedin.com/in/teófilo-correa-rojas/) · [GitHub](https://github.com/teofilocorrea)
 
 ---
