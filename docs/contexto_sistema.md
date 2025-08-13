@@ -1,5 +1,9 @@
 # 🧭 Contexto del Sistema
 
+**Sistema de Calculo de Calificaciónes** — SQL Server Columna Computada
+
+---
+
 El sistema **AcademicNotes** nace con el propósito de gestionar y automatizar el proceso de evaluación académica en instituciones educativas. Su enfoque principal es facilitar la asignación, cálculo y seguimiento de calificaciones de los estudiantes mediante una estructura clara y lógica de datos.
 
 Este sistema es especialmente útil para instituciones que desean:
