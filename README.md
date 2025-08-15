@@ -14,7 +14,6 @@ El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a
 - 📌 [Contexto del Sistema](docs/contexto_sistema.md)
 - 🗂 [Documento Conceptual](docs/documento_conceptual.md)
 - 📊 [Documento Lógico](docs/documento_logico.md)
-- 🏗 [Diseño Físico](docs/diseno_fisico.md)
 - 🔗 [Relaciones y Reglas de Integridad](docs/relaciones_tablas.md)
 - 🔒 [Seguridad y Metadatos](docs/seguridad_metadatos.md)
 - 💻 [Implementación y Pruebas](docs/implementacion_pruebas.md)
