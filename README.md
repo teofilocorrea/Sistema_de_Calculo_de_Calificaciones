@@ -24,9 +24,8 @@ El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a
 
 - 📄 [01 – Creación de estructura (DDL)](sql/01_ddl_creacion_estructura.sql)
 - 📄 [02 – Datos de prueba (DML Insert)](sql/02_dml_datos_prueba.sql)
-- 📄 [03 – Actualización y eliminación (DML Update/Delete)](sql/03_dml_actualizacion_eliminacion.sql)
-- 📄 [04 – Consultas básicas (DQL)](sql/04_dql_consultas_basicas.sql)
-- 📄 [05 – Consultas avanzadas (DQL)](sql/05_dql_consultas_avanzadas.sql)
+- 📄 [03 – Consultas básicas (DQL)](sql/04_dql_consultas_basicas.sql)
+- 📄 [04 – Consultas avanzadas (DQL)](sql/05_dql_consultas_avanzadas.sql)
 
 ---
 
