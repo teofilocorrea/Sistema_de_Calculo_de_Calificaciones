@@ -1,4 +1,4 @@
-# 🧠 Diagrama Conceptual
+## 📄 Documento Conceptual
 
 ![Diagrama Conceptual](img/diagrama_conceptual_sistema_calculo.png)
 
@@ -31,4 +31,4 @@ Para promover una estructura clara y escalable, el modelo conceptual contempla u
 - **course_catalog**: Contiene la entidad `Courses`.
 - **enrollments_general**: Contiene las entidades `Core_Enrollments` y `Status`.
 
-Esta separación por esquemas facilita la administración, documentación, control de accesos y crecimiento estructurado del modelo de datos.~~~~
+Esta separación por esquemas facilita la administración, documentación, control de accesos y crecimiento estructurado del modelo de datos.
