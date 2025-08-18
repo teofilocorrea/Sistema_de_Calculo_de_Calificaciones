@@ -1,0 +1,18 @@
+# 🔹 Configuración de DataGrip / IntelliJ
+.idea/
+*.iml
+
+# 🔹 Archivos del sistema (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs y backups SQL
+*.log
+*.bak
+*.sql~
+
+# 🔹 Carpeta de dumps o exportaciones
+dump/
+backup/
+# Elimina de Git todo lo que esté dentro de .idea/
+git rm --cached -r .idea
