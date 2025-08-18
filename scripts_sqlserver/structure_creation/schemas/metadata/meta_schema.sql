@@ -3,7 +3,7 @@
 --              mediante propiedades extendidas (MS_Description) para propósitos técnicos y de portafolio.
 -- Esquemas incluidos: student_management, course_catalog y enrollments_general.
 -- Autor: Teófilo Correa Rojas
--- Fecha: 30 de julio de 2025
+-- Fecha: 18 de Agosto de 2025
 -- ========================================
 
 USE AcademicNotes
