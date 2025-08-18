@@ -22,7 +22,7 @@ El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a
 
 ## 🗄 Scripts SQL
 
-- 📄 [01 – Creación de estructura (DDL)](sql/01_ddl_creacion_estructura.sql)
+- 📄 [01 – Creación de estructura (DDL)](/scripts_sqlserver/structure_creation)
 - 📄 [02 – Datos de prueba (DML Insert)](sql/02_dml_datos_prueba.sql)
 - 📄 [03 – Consultas básicas (DQL)](sql/03_dql_consultas_basicas.sql)
 - 📄 [04 – Consultas avanzadas (DQL)](sql/04_dql_consultas_avanzadas.sql)
