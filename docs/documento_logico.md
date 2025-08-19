@@ -66,7 +66,7 @@ A diferencia de un modelo académico completo, aquí se priorizan los componente
 | Exam2         | TINYINT       | NO   | CHECK BETWEEN(0 a 100)             | Calificación examen 2 (0–100)                                                                                   |
 | Participation | TINYINT       | NO   | CHECK BETWEEN(0 a 100)             | Participación (0–100)                                                                                           |
 | Attendance    | TINYINT       | NO   | CHECK BETWEEN(0 a 100)             | Asistencia (0–100)                                                                                              |
-| Final_Grade   | DECIMAL(4,2)  | NO   | **COMPUTED PERSISTED** (si aplica) | Nota final calculada a partir de Exam1, Exam2, Participation y Attendance. PERSISTED para optimizar consultas.  |
+| Final_Grade   | DECIMAL(4,2)  | NO   | **COMPUTED PERSISTED** (si aplica), CHECK CALIFICATION | Nota final calculada a partir de Exam1, Exam2, Participation y Attendance. PERSISTED para optimizar consultas.  |
 
 > **Fórmula computada sugerida (si aplica):**  
 > ```sql
