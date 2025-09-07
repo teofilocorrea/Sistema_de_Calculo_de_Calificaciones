@@ -16,16 +16,7 @@ El objetivo es **automatizar el cálculo de la nota final** de los estudiantes a
 - 📊 [Documento Lógico](docs/documento_logico.md)
 - 🔗 [Relaciones y Reglas de Integridad](docs/relaciones_tablas.md)
 - 🔒 [Seguridad y Metadatos](docs/seguridad_metadatos.md)
-- 💻 [Implementación y Pruebas](docs/implementacion_pruebas.md)
 - 🚀 [Release](docs/release.md)
-
-
-## 🗄 Scripts SQL
-
-- 📄 [01 – Creación de estructura (DDL)](/scripts_sqlserver/structure_creation)
-- 📄 [02 – Datos de prueba (DML Insert)](sql/02_dml_datos_prueba.sql)
-- 📄 [03 – Consultas básicas (DQL)](sql/03_dql_consultas_basicas.sql)
-- 📄 [04 – Consultas avanzadas (DQL)](sql/04_dql_consultas_avanzadas.sql)
 
 ---
 
